@@ -5,7 +5,7 @@
       "name": "Captain Swinburne",
       "minDice": 1,
       "maxDice": 6,
-      "uses": 2
+      "uses": 2,
     },
     {
       "id": 2,
@@ -13,7 +13,7 @@
       "minDice": 4,
       "maxDice": 8,
       "uses": 2,
-    }
+    },
   ],
   "profile": {
     "name": "ubkychin"
