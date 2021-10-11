@@ -6,13 +6,6 @@
       "minDice": 1,
       "maxDice": 6,
       "uses": 2
-    },
-    {
-      "id": 2,
-      "name": "John Carmack",
-      "minDice": 4,
-      "maxDice": 8,
-      "uses": 2
     }
   ],
   "profile": {
